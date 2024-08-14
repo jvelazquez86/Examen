@@ -1,0 +1,44 @@
+﻿@page "/GetData"
+@using Prueba.Model.Request
+@using Prueba.Servicios
+@inject IProductosBL productoService
+
+<h3>Productoss</h3>
+
+@if (productos == null)
+{
+    <p>Loading ...</p>
+}
+else
+{
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope ="col">Tipo</th>
+                <th scope ="col">Nombre</th>
+                <th scope="col">Tasa</th>
+                <th scope="col">Interes</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in productos)
+            {
+                <tr>
+                    <td scope="row">@item.tipo_producto</td>
+                    <td>@item.nombre_producto</td>
+                    <td>@item.tasa</td>
+                    <td>@item.interes</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<ProductosResponse> productos;
+
+    protected override async Task OnInitializedAsync()
+    {
+        productos = await productoService.GET();
+    }
+}

@@ -13,39 +13,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Prueba
 build_property.RootNamespace = Prueba
-build_property.ProjectDir = C:\Users\deick\OneDrive\Documentos\Examen\Prueba\Prueba\
+build_property.ProjectDir = C:\Users\deick\OneDrive\Documentos\Examen\Examen\Prueba\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\deick\OneDrive\Documentos\Examen\Prueba\Prueba
+build_property.MSBuildProjectDirectory = C:\Users\deick\OneDrive\Documentos\Examen\Examen\Prueba
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/deick/OneDrive/Documentos/Examen/Prueba/Prueba/App.razor]
+[C:/Users/deick/OneDrive/Documentos/Examen/Examen/Prueba/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/deick/OneDrive/Documentos/Examen/Prueba/Prueba/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[C:/Users/deick/OneDrive/Documentos/Examen/Examen/Prueba/Pages/GetData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0RGF0YS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/deick/OneDrive/Documentos/Examen/Prueba/Prueba/Pages/Home.razor]
+[C:/Users/deick/OneDrive/Documentos/Examen/Examen/Prueba/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/deick/OneDrive/Documentos/Examen/Prueba/Prueba/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/deick/OneDrive/Documentos/Examen/Prueba/Prueba/_Imports.razor]
+[C:/Users/deick/OneDrive/Documentos/Examen/Examen/Prueba/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/deick/OneDrive/Documentos/Examen/Prueba/Prueba/Layout/MainLayout.razor]
+[C:/Users/deick/OneDrive/Documentos/Examen/Examen/Prueba/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-zoaxvuj0vj
 
-[C:/Users/deick/OneDrive/Documentos/Examen/Prueba/Prueba/Layout/NavMenu.razor]
+[C:/Users/deick/OneDrive/Documentos/Examen/Examen/Prueba/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9acr6s6298

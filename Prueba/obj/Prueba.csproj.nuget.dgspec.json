@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Prueba\\Prueba\\Prueba.csproj": {}
+    "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Examen\\Prueba\\Prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Prueba\\Prueba\\Prueba.csproj": {
+    "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Examen\\Prueba\\Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Prueba\\Prueba\\Prueba.csproj",
+        "projectUniqueName": "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Examen\\Prueba\\Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Prueba\\Prueba\\Prueba.csproj",
+        "projectPath": "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Examen\\Prueba\\Prueba.csproj",
         "packagesPath": "C:\\Users\\deick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Prueba\\Prueba\\obj\\",
+        "outputPath": "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Examen\\Prueba\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[8.0.4, )",
               "autoReferenced": true
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[5.3.3, )"
             }
           },
           "imports": [

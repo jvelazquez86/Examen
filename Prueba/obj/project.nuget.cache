@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DsMZZqCfQJYGlOLw9oDwbn2joxvpAgA6+g44p5mYy3ZLhB5C89NrUpk/tUAcqYaJRqkqyhX0AOZvUvi6FqNcOw==",
+  "dgSpecHash": "0SCM8eU877hKwf8s322/Mez/GIkRX7Ku1K5JcADq38LgFYU+wTUt9QaO12CZYutTANPUbtgEP3S73/V1GgDduQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Prueba\\Prueba\\Prueba.csproj",
+  "projectFilePath": "C:\\Users\\deick\\OneDrive\\Documentos\\Examen\\Examen\\Prueba\\Prueba.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\deick\\.nuget\\packages\\bootstrap\\5.3.3\\bootstrap.5.3.3.nupkg.sha512",
     "C:\\Users\\deick\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "C:\\Users\\deick\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
     "C:\\Users\\deick\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.4\\microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",
