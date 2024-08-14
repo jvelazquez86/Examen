@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Prueba/config
+/.vs/Prueba/DesignTimeBuild
+/.vs/Prueba/FileContentIndex
+/.vs/Prueba/v17/DocumentLayout.json
+/.vs/Prueba/v17/.suo
+/APiExamen/bin/Debug/net8.0
+/APiExamen/obj/Debug/net8.0
+/APiExamen/obj
+/Prueba/bin/Debug/net8.0
